@@ -7,8 +7,11 @@ This project aims to predict the success of startup companies in the Global Sout
 ## Repository Structure
 
 ├── models/                # Notebooks of all models employed in the analysis
+
 ├── notebooks/             # Notebooks to perform data preprocessing and EDA
+
 ├── technial-appendix.pdf  # Appendix for technical details of this analysis
+
 └── README.md
 
 ## Author
